@@ -16,4 +16,5 @@ This is a simple calculator project built using TypeScript, Node.js, and Inquire
 
 ## Author
 
-- [Hasan Raza](https://github.com/Hasanraza09)
+- 🌟 [Hasan Raza](https://github.com/Hasanraza09)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hasan-raza-541b09228/) 
