@@ -1,6 +1,6 @@
 {
-    "name": "simple-calculator",
-    "version": "1.0.0",
+    "name": "hraza09-simple-calculator",
+    "version": "1.1.1",
     "description": "Make Simple Calculator with TypScript, Node.js and Inquirer",
     "main": "index.js",
     "type": "module",
